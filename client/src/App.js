@@ -99,7 +99,7 @@ class App extends React.Component {
                   name={d.name}
                   id={d.id}
                   image={d.image}
-                  birth={d.birth}
+                  birth={d.birthday}
                   gender={d.gender}
                   job={d.job}
                   />
